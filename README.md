@@ -9,3 +9,5 @@
 6.  Prometheus
 7.  Grafana
 
+https://site.ip138.com/raw.Githubusercontent.com/
+sudo vi /etc/hosts
